@@ -1,0 +1,15 @@
+E:\ProjectWeb\SocialNetworkWeb\server\SocialNetwork.Application\bin\Debug\net8.0\SocialNetwork.Application.deps.json
+E:\ProjectWeb\SocialNetworkWeb\server\SocialNetwork.Application\bin\Debug\net8.0\SocialNetwork.Application.dll
+E:\ProjectWeb\SocialNetworkWeb\server\SocialNetwork.Application\bin\Debug\net8.0\SocialNetwork.Application.pdb
+E:\ProjectWeb\SocialNetworkWeb\server\SocialNetwork.Application\bin\Debug\net8.0\SocialNetwork.Core.dll
+E:\ProjectWeb\SocialNetworkWeb\server\SocialNetwork.Application\bin\Debug\net8.0\SocialNetwork.Core.pdb
+E:\ProjectWeb\SocialNetworkWeb\server\SocialNetwork.Application\obj\Debug\net8.0\SocialNetwork.Application.csproj.AssemblyReference.cache
+E:\ProjectWeb\SocialNetworkWeb\server\SocialNetwork.Application\obj\Debug\net8.0\SocialNetwork.Application.GeneratedMSBuildEditorConfig.editorconfig
+E:\ProjectWeb\SocialNetworkWeb\server\SocialNetwork.Application\obj\Debug\net8.0\SocialNetwork.Application.AssemblyInfoInputs.cache
+E:\ProjectWeb\SocialNetworkWeb\server\SocialNetwork.Application\obj\Debug\net8.0\SocialNetwork.Application.AssemblyInfo.cs
+E:\ProjectWeb\SocialNetworkWeb\server\SocialNetwork.Application\obj\Debug\net8.0\SocialNetwork.Application.csproj.CoreCompileInputs.cache
+E:\ProjectWeb\SocialNetworkWeb\server\SocialNetwork.Application\obj\Debug\net8.0\SocialNe.806F04EA.Up2Date
+E:\ProjectWeb\SocialNetworkWeb\server\SocialNetwork.Application\obj\Debug\net8.0\SocialNetwork.Application.dll
+E:\ProjectWeb\SocialNetworkWeb\server\SocialNetwork.Application\obj\Debug\net8.0\refint\SocialNetwork.Application.dll
+E:\ProjectWeb\SocialNetworkWeb\server\SocialNetwork.Application\obj\Debug\net8.0\SocialNetwork.Application.pdb
+E:\ProjectWeb\SocialNetworkWeb\server\SocialNetwork.Application\obj\Debug\net8.0\ref\SocialNetwork.Application.dll

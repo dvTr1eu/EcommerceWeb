@@ -1,0 +1,83 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\ProjectWeb\\SocialNetworkWeb\\server\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CB0C83AF-44CC-46BF-AF1F-AFB4FD025BB4}|SocialNetwork.API\\Ecommerce.API.csproj|e:\\projectweb\\socialnetworkweb\\server\\socialnetwork.api\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB0C83AF-44CC-46BF-AF1F-AFB4FD025BB4}|SocialNetwork.API\\Ecommerce.API.csproj|solutionrelative:socialnetwork.api\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB0C83AF-44CC-46BF-AF1F-AFB4FD025BB4}|SocialNetwork.API\\Ecommerce.API.csproj|e:\\projectweb\\socialnetworkweb\\server\\socialnetwork.api\\controllers\\cartscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB0C83AF-44CC-46BF-AF1F-AFB4FD025BB4}|SocialNetwork.API\\Ecommerce.API.csproj|solutionrelative:socialnetwork.api\\controllers\\cartscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE8141EF-16AE-4B24-A37F-A7CC5393D1A2}|SocialNetwork.Infrastructure\\Ecommerce.Infrastructure.csproj|e:\\projectweb\\socialnetworkweb\\server\\socialnetwork.infrastructure\\persistence\\ecommercedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE8141EF-16AE-4B24-A37F-A7CC5393D1A2}|SocialNetwork.Infrastructure\\Ecommerce.Infrastructure.csproj|solutionrelative:socialnetwork.infrastructure\\persistence\\ecommercedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "E:\\ProjectWeb\\SocialNetworkWeb\\server\\SocialNetwork.API\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "SocialNetwork.API\\Controllers\\OrderController.cs",
+              "ToolTip": "E:\\ProjectWeb\\SocialNetworkWeb\\server\\SocialNetwork.API\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "SocialNetwork.API\\Controllers\\OrderController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T07:52:25.237Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CartsController.cs",
+              "DocumentMoniker": "E:\\ProjectWeb\\SocialNetworkWeb\\server\\SocialNetwork.API\\Controllers\\CartsController.cs",
+              "RelativeDocumentMoniker": "SocialNetwork.API\\Controllers\\CartsController.cs",
+              "ToolTip": "E:\\ProjectWeb\\SocialNetworkWeb\\server\\SocialNetwork.API\\Controllers\\CartsController.cs",
+              "RelativeToolTip": "SocialNetwork.API\\Controllers\\CartsController.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T07:25:42.097Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EcommerceDbContext.cs",
+              "DocumentMoniker": "E:\\ProjectWeb\\SocialNetworkWeb\\server\\SocialNetwork.Infrastructure\\Persistence\\EcommerceDbContext.cs",
+              "RelativeDocumentMoniker": "SocialNetwork.Infrastructure\\Persistence\\EcommerceDbContext.cs",
+              "ToolTip": "E:\\ProjectWeb\\SocialNetworkWeb\\server\\SocialNetwork.Infrastructure\\Persistence\\EcommerceDbContext.cs",
+              "RelativeToolTip": "SocialNetwork.Infrastructure\\Persistence\\EcommerceDbContext.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T01:43:35.818Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

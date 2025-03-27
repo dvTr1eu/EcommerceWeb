@@ -1,0 +1,12 @@
+E:\ProjectWeb\SocialNetworkWeb\server\SocialNetwork.Core\bin\Debug\net8.0\Ecommerce.Core.deps.json
+E:\ProjectWeb\SocialNetworkWeb\server\SocialNetwork.Core\bin\Debug\net8.0\Ecommerce.Core.dll
+E:\ProjectWeb\SocialNetworkWeb\server\SocialNetwork.Core\bin\Debug\net8.0\Ecommerce.Core.pdb
+E:\ProjectWeb\SocialNetworkWeb\server\SocialNetwork.Core\obj\Debug\net8.0\Ecommerce.Core.csproj.AssemblyReference.cache
+E:\ProjectWeb\SocialNetworkWeb\server\SocialNetwork.Core\obj\Debug\net8.0\Ecommerce.Core.GeneratedMSBuildEditorConfig.editorconfig
+E:\ProjectWeb\SocialNetworkWeb\server\SocialNetwork.Core\obj\Debug\net8.0\Ecommerce.Core.AssemblyInfoInputs.cache
+E:\ProjectWeb\SocialNetworkWeb\server\SocialNetwork.Core\obj\Debug\net8.0\Ecommerce.Core.AssemblyInfo.cs
+E:\ProjectWeb\SocialNetworkWeb\server\SocialNetwork.Core\obj\Debug\net8.0\Ecommerce.Core.csproj.CoreCompileInputs.cache
+E:\ProjectWeb\SocialNetworkWeb\server\SocialNetwork.Core\obj\Debug\net8.0\Ecommerce.Core.dll
+E:\ProjectWeb\SocialNetworkWeb\server\SocialNetwork.Core\obj\Debug\net8.0\refint\Ecommerce.Core.dll
+E:\ProjectWeb\SocialNetworkWeb\server\SocialNetwork.Core\obj\Debug\net8.0\Ecommerce.Core.pdb
+E:\ProjectWeb\SocialNetworkWeb\server\SocialNetwork.Core\obj\Debug\net8.0\ref\Ecommerce.Core.dll

@@ -1,0 +1,12 @@
+E:\ProjectWeb\SocialNetworkWeb\server\SocialNetwork.Core\bin\Debug\net8.0\SocialNetwork.Core.deps.json
+E:\ProjectWeb\SocialNetworkWeb\server\SocialNetwork.Core\bin\Debug\net8.0\SocialNetwork.Core.dll
+E:\ProjectWeb\SocialNetworkWeb\server\SocialNetwork.Core\bin\Debug\net8.0\SocialNetwork.Core.pdb
+E:\ProjectWeb\SocialNetworkWeb\server\SocialNetwork.Core\obj\Debug\net8.0\SocialNetwork.Core.GeneratedMSBuildEditorConfig.editorconfig
+E:\ProjectWeb\SocialNetworkWeb\server\SocialNetwork.Core\obj\Debug\net8.0\SocialNetwork.Core.AssemblyInfoInputs.cache
+E:\ProjectWeb\SocialNetworkWeb\server\SocialNetwork.Core\obj\Debug\net8.0\SocialNetwork.Core.AssemblyInfo.cs
+E:\ProjectWeb\SocialNetworkWeb\server\SocialNetwork.Core\obj\Debug\net8.0\SocialNetwork.Core.csproj.CoreCompileInputs.cache
+E:\ProjectWeb\SocialNetworkWeb\server\SocialNetwork.Core\obj\Debug\net8.0\SocialNetwork.Core.dll
+E:\ProjectWeb\SocialNetworkWeb\server\SocialNetwork.Core\obj\Debug\net8.0\refint\SocialNetwork.Core.dll
+E:\ProjectWeb\SocialNetworkWeb\server\SocialNetwork.Core\obj\Debug\net8.0\SocialNetwork.Core.pdb
+E:\ProjectWeb\SocialNetworkWeb\server\SocialNetwork.Core\obj\Debug\net8.0\ref\SocialNetwork.Core.dll
+E:\ProjectWeb\SocialNetworkWeb\server\SocialNetwork.Core\obj\Debug\net8.0\SocialNetwork.Core.csproj.AssemblyReference.cache

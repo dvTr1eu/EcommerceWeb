@@ -1,0 +1,15 @@
+@host = http://localhost
+@port = 5139
+@Ecommerce.API_HostAddress = {{host}}:{{port}}
+
+
+GET {{Ecommerce.API_HostAddress}}/api/
+Accept: application/json
+
+###
+
+POST {{Ecommerce.API_HostAddress}}/api/Auth/DangKyTaiKhoan
+Content-Type: application/json
+{
+
+}
